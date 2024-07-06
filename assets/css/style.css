@@ -257,6 +257,25 @@ img {
 
 
 /*=============== HOME ===============*/
+.home {
+    position: relative;
+    padding-bottom: 0;
+}
+
+.home__container {
+    padding-top: 4rem;
+    row-gap: 3rem;
+}
+
+.home__data {
+    text-align: center;
+}
+
+.home__subtitle {
+    font-size: var(--bigger-font-size);
+    -webkit-text-stroke: 1px var(--title-color);
+    color: transparent;
+}
 
 
 /*=============== BUTTON ===============*/
