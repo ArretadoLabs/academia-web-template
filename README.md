@@ -1,4 +1,4 @@
-# Modelode website para academias - template
+# Modelo de website para academias - template
 
 > [!NOTE]
 > - Autor: Francisco Gomes.
